@@ -6,3 +6,4 @@ As this is refined I will GPL and publish this work. People are free to contribu
 **To-do:**
 
 I need to find a new low-cost serverless framework RIP Parse.api.
+You probably will not be able to build this without the [Parse Libraries](https://parseplatform.org/) and your own backend to support the data.
